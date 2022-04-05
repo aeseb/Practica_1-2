@@ -1,0 +1,6 @@
+document.write('<body background="https://fondosmil.com/fondo/15285.jpg">');
+document.write('<h1 ALIGN="CENTER"><b><FONT COLOR="yellow">Experiencia Jimi Hendrix</FONT></b></h1>');
+document.write('<iframe width="560" height="315" src="https://www.youtube.com/embed/P701paKEMXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>');
+document.write('<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d172139.13549084685!2d-122.3420645!3d47.613028449999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5490102c93e83355%3A0x102565466944d59a!2sSeattle%2C%20Washington%2C%20EE.%20UU.!5e0!3m2!1ses-419!2sar!4v1649177926931!5m2!1ses-419!2sar" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>');
+document.write('<iframe src="https://download.mp3era.xyz/s/The-Jimi-Hendrix-Experience-Little-Wing.mp3" frameborder="0"></iframe>');
+document.write('<iframe src="https://www.biografiasyvidas.com/biografia/h/hendrix.htm" frameborder="0"></iframe>');
